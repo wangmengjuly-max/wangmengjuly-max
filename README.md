@@ -7,8 +7,8 @@
 
 <!-- ===== HEADER · animated typing ===== -->
 <p align="center">
-  <a href="http://www.longxw.top/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=760&height=70&lines=longyi-xw;full-stack+engineer;reverse+engineer;ai-agent+builder" alt="longyi-xw" />
+  <a href="http://www.wangmengjuly-max.top/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=760&height=70&lines=wangmengjuly-max;full-stack+engineer;reverse+engineer;ai-agent+builder" alt="wangmengjuly-max" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <!-- ===== LAUNCH INTERACTIVE VERSION ===== -->
 <p align="center">
-  <a href="https://longyi-xw.github.io/longyi-xw/">
+  <a href="https://wangmengjuly-max.github.io/wangmengjuly-max/">
     <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20INTERACTIVE%20TERMINAL-39d353?style=for-the-badge&labelColor=010409&logo=gnometerminal&logoColor=010409" alt="launch interactive terminal" />
   </a>
 </p>
@@ -29,9 +29,9 @@
 <p align="center"><sub>世 界 是 向 前 的 — keep shipping, keep learning.</sub></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=longyi-xw&style=flat-square&color=39d353&label=VISITORS" alt="visitors" />
-  <a href="https://github.com/longyi-xw?tab=followers"><img src="https://img.shields.io/github/followers/longyi-xw?style=flat-square&color=39d353&labelColor=010409&logo=github" alt="followers" /></a>
-  <a href="http://www.longxw.top/"><img src="https://img.shields.io/badge/blog-www.longxw.top-39d353?style=flat-square&labelColor=010409&logo=hackthebox&logoColor=39d353" alt="blog" /></a>
+  <img src="https://komarev.com/ghpvc/?username=wangmengjuly-max&style=flat-square&color=39d353&label=VISITORS" alt="visitors" />
+  <a href="https://github.com/wangmengjuly-max?tab=followers"><img src="https://img.shields.io/github/followers/wangmengjuly-max?style=flat-square&color=39d353&labelColor=010409&logo=github" alt="followers" /></a>
+  <a href="http://www.wangmengjuly.top/"><img src="https://img.shields.io/badge/blog-www.longxw.top-39d353?style=flat-square&labelColor=010409&logo=hackthebox&logoColor=39d353" alt="blog" /></a>
 </p>
 
 <!-- ===== TECH ARSENAL ===== -->
@@ -53,7 +53,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=longyi-xw&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longyi-xw&layout=compact&langs_count=6&hide=html,vue&hide_border=true&bg_color=010409&title_color=39d353&text_color=c9d1d9" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmengjuly&layout=compact&langs_count=6&hide=html,vue&hide_border=true&bg_color=010409&title_color=39d353&text_color=c9d1d9" alt="top langs" />
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@
 ### `// contribution snake`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/longyi-xw/longyi-xw/output/github-snake-dark.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/wangmengjuly/wangmengjuly/output/github-snake-dark.svg" alt="snake eating my contributions" />
 </p>
 
 <!-- ===== PINNED REPOS ===== -->
