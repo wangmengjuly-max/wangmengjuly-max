@@ -1,78 +1,98 @@
-<!-- 隐藏标题，避免重复显示 -->
-<h1 align="center">Hi there, I'm wangmengjuly-max 👋</h1>
+<!--
+  ████ longyi-xw profile README ████
+  Drop this file into the repo  github.com/longyi-xw/longyi-xw  (same name as your account).
+  Everything below renders on your GitHub profile. See GITHUB-SETUP.md for the 3-minute setup.
+  Theme: GitHub-dark #010409 · neon green #39d353  (matches the "Hacker Profile" design)
+-->
 
-<!-- 1. 顶部终端风格 Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=%3E+./wangmengjuly-max_--boot_--verbose;local+17:00:02+uptime+15:12+%E2%97%8F+online" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- 2. WHOAMI 区域 (使用表格布局模拟左右结构) -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>// 01 - WHOAMI</h3>
-      <p>
-        🚀 <b>Full-stack engineer & reverse-engineering enthusiast</b><br/>
-        🔭 diving into ai-agents · applied ai · llm orchestration<br/>
-        💻 <b>Stack:</b> Python · JavaScript · Go & whatever the target speaks<br/>
-        🔗 <a href="https://www.longxw.top">www.wangmengjuly-max.top</a> · <a href="https://github.com/wangmengjuly-max">github.com/longyi-xw</a>
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-       <!-- 这里可以放一张你的头像或者那个 "The World Moves Forward" 的图片 -->
-       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=THE%20WORLD%20MOVES%20FORWARD&fontSize=30&animation=fadeIn&fontAlignY=38&desc=世界是向前的&descAlignY=65&descAlign=60" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<!-- 3. TELEMETRY 数据统计 -->
-<h3>// 02 - TELEMETRY</h3>
-
-<div align="center">
-  <!-- 注意：你需要将下方的 'wangmengjuly-max' 替换为你的真实 GitHub 用户名 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wangmengjuly-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmengjuly-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" width="48%" />
-</div>
-
-<br/>
-
-<!-- 4. TECH ARSENAL 技能栈 -->
-<h3>// 03 - TECH ARSENAL</h3>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p><b>$ langs --usage</b></p>
-      <!-- 模拟进度条，你需要根据你的实际语言比例修改 width 百分比 -->
-      <p>TypeScript <img src="https://geps.dev/progress/38?suffix=%&color=00ff00&backgroundColor=161b22" /></p>
-      <p>Python <img src="https://geps.dev/progress/31?suffix=%&color=00ff00&backgroundColor=161b22" /></p>
-      <p>JavaScript <img src="https://geps.dev/progress/18?suffix=%&color=00ff00&backgroundColor=161b22" /></p>
-      <p>Go <img src="https://geps.dev/progress/9?suffix=%&color=00ff00&backgroundColor=161b22" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><b>$ tools --installed</b></p>
-      <!-- 使用 Shields.io 生成标签 -->
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Frida-000000?style=flat-square&logo=frida&logoColor=white" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-Ghidra-007bff?style=flat-square&logo=ghidra&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-  </tr>
-</table>
-
-<!-- 5. CONTRIBUTION SNAKE 贪吃蛇动画 -->
-<h3>// 04 - CONTRIBUTION SNAKE</h3>
-
+<!-- ===== HEADER · animated typing ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/longyi-xw/longyi-xw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <a href="http://www.longxw.top/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=760&height=70&lines=longyi-xw;full-stack+engineer;reverse+engineer;ai-agent+builder" alt="longyi-xw" />
+  </a>
 </p>
 
-<!-- 底部装饰线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <code>&gt; full-stack engineer &amp; reverse-engineering enthusiast</code><br/>
+  <code>&gt; now learning · ai-agents · applied ai · llm orchestration</code>
+</p>
+
+<!-- ===== LAUNCH INTERACTIVE VERSION ===== -->
+<p align="center">
+  <a href="https://longyi-xw.github.io/longyi-xw/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20INTERACTIVE%20TERMINAL-39d353?style=for-the-badge&labelColor=010409&logo=gnometerminal&logoColor=010409" alt="launch interactive terminal" />
+  </a>
+</p>
+
+<!-- ===== MANIFESTO ===== -->
+<h2 align="center">THE WORLD MOVES FORWARD</h2>
+<p align="center"><sub>世 界 是 向 前 的 — keep shipping, keep learning.</sub></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=longyi-xw&style=flat-square&color=39d353&label=VISITORS" alt="visitors" />
+  <a href="https://github.com/longyi-xw?tab=followers"><img src="https://img.shields.io/github/followers/longyi-xw?style=flat-square&color=39d353&labelColor=010409&logo=github" alt="followers" /></a>
+  <a href="http://www.longxw.top/"><img src="https://img.shields.io/badge/blog-www.longxw.top-39d353?style=flat-square&labelColor=010409&logo=hackthebox&logoColor=39d353" alt="blog" /></a>
+</p>
+
+<!-- ===== TECH ARSENAL ===== -->
+### `// tech arsenal`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-663399?style=flat-square&logo=frida&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=FCC624)
+
+<!-- ===== STATS ===== -->
+### `// telemetry`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=longyi-xw&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longyi-xw&layout=compact&langs_count=6&hide=html,vue&hide_border=true&bg_color=010409&title_color=39d353&text_color=c9d1d9" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=longyi-xw&hide_border=true&background=010409&stroke=143020&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=586069&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=longyi-xw&theme=matrix&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+</p>
+
+<!-- ===== CONTRIBUTION SNAKE (needs the Action in GITHUB-SETUP.md) ===== -->
+### `// contribution snake`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/longyi-xw/longyi-xw/output/github-snake-dark.svg" alt="snake eating my contributions" />
+</p>
+
+<!-- ===== PINNED REPOS ===== -->
+### `// pinned repos`
+
+<p align="center">
+  <a href="https://github.com/longyi-xw/lowcode-3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=longyi-xw&repo=lowcode-3d&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/longyi-xw/quantitative-value-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=longyi-xw&repo=quantitative-value-system&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/longyi-xw/frida-automation-hook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=longyi-xw&repo=frida-automation-hook&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  </a>
+</p>
+
+<!-- ===== DAILY JOKE / QUOTE (refreshes each load) ===== -->
+### `// fortune | today`
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="random dev joke" />
+</p>
+
+<p align="center"><sub><code>[ connection secure ] · built with caffeine &amp; curiosity</code></sub></p>
