@@ -1,6 +1,6 @@
 <!--
-  ████ longyi-xw profile README ████
-  Drop this file into the repo  github.com/longyi-xw/longyi-xw  (same name as your account).
+  ████ wangmengjuly profile README ████
+  Drop this file into the repo  github.com/wangmengjuly/wangmengjuly  (same name as your account).
   Everything below renders on your GitHub profile. See GITHUB-SETUP.md for the 3-minute setup.
   Theme: GitHub-dark #010409 · neon green #39d353  (matches the "Hacker Profile" design)
 -->
@@ -52,16 +52,16 @@
 ### `// telemetry`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=longyi-xw&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wangmengjuly&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmengjuly&layout=compact&langs_count=6&hide=html,vue&hide_border=true&bg_color=010409&title_color=39d353&text_color=c9d1d9" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=longyi-xw&hide_border=true&background=010409&stroke=143020&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=586069&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangmengjuly&hide_border=true&background=010409&stroke=143020&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=586069&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=longyi-xw&theme=matrix&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wangmengjuly&theme=matrix&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 </p>
 
 <!-- ===== CONTRIBUTION SNAKE (needs the Action in GITHUB-SETUP.md) ===== -->
@@ -75,15 +75,15 @@
 ### `// pinned repos`
 
 <p align="center">
-  <a href="https://github.com/longyi-xw/lowcode-3d">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=longyi-xw&repo=lowcode-3d&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  <a href="https://github.com/wangmengjuly/lowcode-3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangmengjuly&repo=lowcode-3d&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/longyi-xw/quantitative-value-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=longyi-xw&repo=quantitative-value-system&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  <a href="https://github.com/wangmengjuly/quantitative-value-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangmengjuly&repo=quantitative-value-system&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/longyi-xw/frida-automation-hook">
+  <a href="https://github.com/wangmengjuly/frida-automation-hook">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=longyi-xw&repo=frida-automation-hook&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
   </a>
 </p>
