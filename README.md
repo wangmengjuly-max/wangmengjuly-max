@@ -1,5 +1,5 @@
 <!-- 隐藏标题，避免重复显示 -->
-<h1 align="center">Hi there, I'm LongYi-XW 👋</h1>
+<h1 align="center">Hi there, I'm wangmengjuly-max 👋</h1>
 
 <!-- 1. 顶部终端风格 Header -->
 <div align="center">
