@@ -3,7 +3,7 @@
 
 <!-- 1. 顶部终端风格 Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=%3E+./longyi_--boot_--verbose;local+17:00:02+uptime+15:12+%E2%97%8F+online" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=%3E+./wangmengjuly-max_--boot_--verbose;local+17:00:02+uptime+15:12+%E2%97%8F+online" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -31,7 +31,7 @@
 <h3>// 02 - TELEMETRY</h3>
 
 <div align="center">
-  <!-- 注意：你需要将下方的 'longyi-xw' 替换为你的真实 GitHub 用户名 -->
+  <!-- 注意：你需要将下方的 'wangmengjuly-max' 替换为你的真实 GitHub 用户名 -->
   <img src="https://github-readme-stats.vercel.app/api?username=wangmengjuly-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmengjuly-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" width="48%" />
 </div>
