@@ -245,7 +245,7 @@ The world moves forward — and so does main.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/wangmengjuly-max/wangmengjuly-max/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/wangmengjuly-max/wangmengjuly-max/output/github-snake-dark"
     alt="snake animation"
   />
 </p>
