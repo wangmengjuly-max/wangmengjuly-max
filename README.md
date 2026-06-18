@@ -85,7 +85,7 @@ const dev = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wangmengjuly/wangmengjuly/output/snake-neon.svg" alt="contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/wangmengjuly-max/wangmengjuly-max/output/github-snake-dark.svg" alt="contribution snake animation" width="100%"/>
 
 </div>
 
