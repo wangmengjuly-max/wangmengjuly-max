@@ -241,7 +241,14 @@ The world moves forward — and so does main.
 </div>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/wangmengjuly-max/wangmengjuly-max/output/github-contribution-grid-snake-dark.svg"
+    alt="snake animation"
+  />
+</p>
 # 👀 Visitors
 
 <div align="center">
