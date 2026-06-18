@@ -1,98 +1,114 @@
 <!--
-  ████ wangmengjuly profile README ████
-  Drop this file into the repo  github.com/wangmengjuly/wangmengjuly  (same name as your account).
-  Everything below renders on your GitHub profile. See GITHUB-SETUP.md for the 3-minute setup.
-  Theme: GitHub-dark #010409 · neon green #39d353  (matches the "Hacker Profile" design)
+  使用说明（不会显示在主页上）：
+  1. 全局替换 YOUR_USERNAME -> 你的 GitHub 用户名
+  2. 打开 assets/header.svg，把 "YOUR NAME" 和 tagline 文字改成你自己的
+  3. 项目展示卡片部分，把 REPO_ONE / REPO_TWO / REPO_THREE / REPO_FOUR 换成你的仓库名
+  4. 联系方式部分按需删改链接
 -->
 
-<!-- ===== HEADER · animated typing ===== -->
-<p align="center">
-  <a href="http://www.wangmengjuly-max.top/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=760&height=70&lines=wangmengjuly-max;full-stack+engineer;reverse+engineer;ai-agent+builder" alt="wangmengjuly-max" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <code>&gt; full-stack engineer &amp; reverse-engineering enthusiast</code><br/>
-  <code>&gt; now learning · ai-agents · applied ai · llm orchestration</code>
-</p>
+<img src="./header.svg" width="100%" alt="header" />
 
-<!-- ===== LAUNCH INTERACTIVE VERSION ===== -->
-<p align="center">
-  <a href="https://wangmengjuly-max.github.io/wangmengjuly-max/">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20INTERACTIVE%20TERMINAL-39d353?style=for-the-badge&labelColor=010409&logo=gnometerminal&logoColor=010409" alt="launch interactive terminal" />
-  </a>
-</p>
+<br/>
 
-<!-- ===== MANIFESTO ===== -->
-<h2 align="center">THE WORLD MOVES FORWARD</h2>
-<p align="center"><sub>世 界 是 向 前 的 — keep shipping, keep learning.</sub></p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS&labelColor=0A0118" alt="profile views"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wangmengjuly-max&style=flat-square&color=39d353&label=VISITORS" alt="visitors" />
-  <a href="https://github.com/wangmengjuly-max?tab=followers"><img src="https://img.shields.io/github/followers/wangmengjuly-max?style=flat-square&color=39d353&labelColor=010409&logo=github" alt="followers" /></a>
-  <a href="http://www.wangmengjuly.top/"><img src="https://img.shields.io/badge/blog-www.longxw.top-39d353?style=flat-square&labelColor=010409&logo=hackthebox&logoColor=39d353" alt="blog" /></a>
-</p>
+</div>
 
-<!-- ===== TECH ARSENAL ===== -->
-### `// tech arsenal`
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-663399?style=flat-square&logo=frida&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=FCC624)
+## ⌁ About
 
-<!-- ===== STATS ===== -->
-### `// telemetry`
+```js
+const dev = {
+  role: "Frontend / Full-Stack Engineer",
+  focus: ["interfaces", "performance", "developer experience"],
+  philosophy: "code is just light, shaped",
+  currentlyExploring: "edge rendering & generative UI",
+};
+```
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wangmengjuly&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmengjuly&layout=compact&langs_count=6&hide=html,vue&hide_border=true&bg_color=010409&title_color=39d353&text_color=c9d1d9" alt="top langs" />
-</p>
+我喜欢把界面当作一种"可触摸的逻辑"——少一点装饰，多一点意图。这个主页本身也是这种思路的产物：抽象、暗色、带一点不安分的荧光。
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangmengjuly&hide_border=true&background=010409&stroke=143020&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=586069&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wangmengjuly&theme=matrix&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
-</p>
+## ⌁ Stack
 
-<!-- ===== CONTRIBUTION SNAKE (needs the Action in GITHUB-SETUP.md) ===== -->
-### `// contribution snake`
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wangmengjuly/wangmengjuly/output/github-snake-dark.svg" alt="snake eating my contributions" />
-</p>
+**Languages**
 
-<!-- ===== PINNED REPOS ===== -->
-### `// pinned repos`
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="Python"/>
 
-<p align="center">
-  <a href="https://github.com/wangmengjuly/lowcode-3d">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangmengjuly&repo=lowcode-3d&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/wangmengjuly/quantitative-value-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangmengjuly&repo=quantitative-value-system&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/wangmengjuly/frida-automation-hook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=longyi-xw&repo=frida-automation-hook&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-  </a>
-</p>
+**Frontend**
 
-<!-- ===== DAILY JOKE / QUOTE (refreshes each load) ===== -->
-### `// fortune | today`
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="Vue"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=CCFF00&labelColor=0A0118&color=0A0118" alt="Tailwind"/>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="random dev joke" />
-</p>
+**Backend & Tools**
 
-<p align="center"><sub><code>[ connection secure ] · built with caffeine &amp; curiosity</code></sub></p>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="Node"/>
+<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="GraphQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=CCFF00&labelColor=0A0118&color=0A0118" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="Git"/>
+
+</div>
+
+<br/>
+
+## ⌁ Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&ring_color=8B5CF6" alt="github stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&langs_count=8" alt="top languages" width="35%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0A0118&ring=FF2BD6&fire=CCFF00&currStreakLabel=00F0FF&sideLabels=8A8AA3&currStreakNum=EAF6FF&sideNums=EAF6FF&dates=8A8AA3" alt="streak stats" width="86%"/>
+
+</div>
+
+<br/>
+
+## ⌁ Selected Work
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-one"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-two"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-three"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-four"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ⌁ Connect
+
+<div align="center">
+
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="email"/></a>
+<a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="linkedin"/></a>
+<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="twitter"/></a>
+<a href="https://your-site.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=CCFF00&labelColor=0A0118&color=0A0118" alt="site"/></a>
+
+</div>
+
+<div align="center">
+<sub>designed in the dark, lit up in neon</sub>
+</div>
