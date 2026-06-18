@@ -8,19 +8,22 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
 jobs:
   generate:
+      permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: generate neon snake svg
-        uses: Platane/snk@v3
+      - name: Generate snake SVG (dark + neon green)
+        uses:Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-neon.svg?color_snake=%2300F0FF&color_dots=%230A0118,%23391C66,%238B5CF6,%23FF2BD6,%2300F0FF
+            dist/github-snake-dark.svg?color_snake=%2300F0FF&color_dots=%230A0118,%23391C66,%238B5CF6,%23FF2BD6,%2300F0FF
 
       - name: push snake svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
