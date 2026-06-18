@@ -1,130 +1,261 @@
-<!--
-  使用说明（不会显示在主页上）：
-  1. 全局替换 WangMeng -> 你的 GitHub 用户名
-  2. 打开 assets/header.svg，把 WangMeng" 和 WangMeng 文字改成你自己的
-  3. 项目展示卡片部分，把WangMeng / WangMengO /WangMeng / WangMeng换成你的仓库名
-  4. 联系方式部分按需删改链接
-  5. 贡献蛇动画（Activity 板块）需要额外两步：
-     a. 仓库 Settings -> Actions -> General -> Workflow permissions，
-        勾选 "Read and write permissions"，保存
-     b. 推送代码后，去 Actions 标签页手动运行一次 "generate contribution snake"
-        （之后会按 .github/workflows/snake.yml 里的 cron 每天自动更新）
-        运行成功后会自动生成一个 output 分支，README 里的图片就会显示出来
--->
-
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="header" />
+# WangMeng 👋
 
-<br/>
+### Full-Stack Engineer · AI Developer · Reverse Engineering Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=WangMeng&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS&labelColor=0A0118" alt="profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=The+world+moves+forward.;Keep+shipping%2C+keep+learning.;Building+AI+Agents+%26+Developer+Tools.;Code.+Create.+Contribute." />
 
 </div>
 
-<br/>
+---
 
-## ⌁ About
+# 🖥️ Terminal
 
-```js
-const dev = {
-  role: "Frontend / Full-Stack Engineer",
-  focus: ["interfaces", "performance", "developer experience"],
-  philosophy: "code is just light, shaped",
-  currentlyExploring: "edge rendering & generative UI",
-};
+```bash
+$ whoami
+
+WangMeng
+
+$ cat profile.txt
+
+Full-Stack Engineer
+AI Developer
+Open Source Contributor
+Reverse Engineering Enthusiast
+
+$ cat manifesto.txt
+
+The world moves forward.
+Keep shipping. Keep learning.
+
+$ ls ~/now-learning
+
+ai-agents/
+llm-applications/
+rag-systems/
+multi-agent-frameworks/
+
+$ stack --languages
+
+Python
+Vue3
+React
+TypeScript
+JavaScript
+Node.js
+Go
+C#
+C++
+MySQL
 ```
 
-我喜欢把界面当作一种"可触摸的逻辑"——少一点装饰，多一点意图。这个主页本身也是这种思路的产物：抽象、暗色、带一点不安分的荧光。
+---
 
-<br/>
-
-## ⌁ Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-**Languages**
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="Python"/>
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="Vue"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=CCFF00&labelColor=0A0118&color=0A0118" alt="Tailwind"/>
-
-**Backend & Tools**
-
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="Node"/>
-<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="GraphQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=CCFF00&labelColor=0A0118&color=0A0118" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=python,vue,react,nodejs,ts,js,go,cs,cpp,mysql,docker,git,linux,vscode" />
 
 </div>
 
-<br/>
+---
 
-## ⌁ Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/?username=WangMeng&show_icons=true&hide_border=true&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&ring_color=8B5CF6" alt="github stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangMeng&layout=compact&hide_border=true&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&langs_count=8" alt="top languages" width="35%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wangmengjuly-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WangMeng&hide_border=true&background=0A0118&ring=FF2BD6&fire=CCFF00&currStreakLabel=00F0FF&sideLabels=8A8AA3&currStreakNum=EAF6FF&sideNums=EAF6FF&dates=8A8AA3" alt="streak stats" width="86%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmengjuly-max&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## ⌁ Activity
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wangmengjuly-max/wangmengjuly-max/output/github-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=wangmengjuly-max&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## ⌁ Selected Work
+# 📈 Activity Graph
 
-<table align="center" width="100%">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wangmengjuly-max&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/wangmengjuly-max/wangmengjuly-max/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 📦 Featured Projects
+
+<table>
 <tr>
+
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WangMeng&repo=REPO_ONE&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-one"/>
+
+<h3>🚀 LowCode-3D</h3>
+
+AI-assisted visual low-code platform for building Web3D scenes.
+
+<b>Tech Stack</b>
+
+TypeScript · Three.js · AI
+
+<b>Highlights</b>
+
+- Visual scene editor
+- Production-ready export
+- AI-assisted generation
+- Low-code workflow
+
+🔗 https://github.com/longyi-xw/lowcode-3d
+
 </td>
+
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WangMeng&repo=WangMengO&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-two"/>
+
+<h3>📈 Quantitative Value System</h3>
+
+Quantitative value-investing research workbench.
+
+<b>Tech Stack</b>
+
+Python · Finance · Quantitative Analysis
+
+<b>Highlights</b>
+
+- Factor Screening
+- Value Investing Research
+- Financial Modeling
+- Quantitative Evaluation
+
+🔗 https://github.com/longyi-xw/quantitative-value-system
+
 </td>
+
 </tr>
+
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WangMeng&repo=REPO_THREE&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-three"/>
+
+<td colspan="2">
+
+<h3>🔍 Frida Automation Hook</h3>
+
+Point-and-click GUI for Frida runtime hooks and instrumentation.
+
+<b>Tech Stack</b>
+
+TypeScript · Frida · Reverse Engineering
+
+<b>Highlights</b>
+
+- Runtime Hook Automation
+- Instrumentation Framework
+- Reverse Engineering Toolkit
+- No Boilerplate Scripts
+
+🔗 https://github.com/longyi-xw/frida-automation-hook
+
 </td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WangMeng&repo=REPO_FOUR&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-four"/>
-</td>
+
 </tr>
+
 </table>
 
-<br/>
+---
 
-## ⌁ Connect
+# 🎯 Current Focus
+
+```yaml
+focus:
+  - AI Agents
+  - LLM Applications
+  - RAG Systems
+  - Multi-Agent Frameworks
+  - Full-Stack Development
+  - Reverse Engineering
+```
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+AI Agents          ██████████████░░░░ 85%
+
+LLM Engineering    █████████████░░░░░ 80%
+
+System Design      ████████████░░░░░░ 75%
+
+Go Backend         ███████████░░░░░░░ 70%
+
+Reverse Engineering ██████████████░░░░ 85%
+```
+
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="1578315938@qq.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="email"/></a>
-<a href="1578315938@qq.com"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="linkedin"/></a>
-<a href="1578315938@qq.com"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="twitter"/></a>
-<a href="1578315938@qq.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=CCFF00&labelColor=0A0118&color=0A0118" alt="site"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=wangmengjuly-max&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
+---
+
+# 🎲 Fortune Today
+
+```text
+The world moves forward — and so does main.
+```
+
+---
+
+# 📫 Connect
+
 <div align="center">
-<sub>designed in the dark, lit up in neon</sub>
+
+<a href="https://github.com/wangmengjuly-max">
+<img src="https://img.shields.io/badge/GitHub-wangmengjuly--max-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Visitors
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=wangmengjuly-max&color=00ff88&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### The world moves forward.
+
+**Keep shipping. Keep learning.**
+
 </div>
