@@ -1,8 +1,8 @@
 <!--
   使用说明（不会显示在主页上）：
-  1. 全局替换 YOUR_USERNAME -> 你的 GitHub 用户名
-  2. 打开 assets/header.svg，把 "YOUR NAME" 和 tagline 文字改成你自己的
-  3. 项目展示卡片部分，把 REPO_ONE / REPO_TWO / REPO_THREE / REPO_FOUR 换成你的仓库名
+  1. 全局替换 WangMeng -> 你的 GitHub 用户名
+  2. 打开 assets/header.svg，把 WangMeng" 和 WangMeng 文字改成你自己的
+  3. 项目展示卡片部分，把WangMeng / WangMengO /WangMeng / WangMeng换成你的仓库名
   4. 联系方式部分按需删改链接
   5. 贡献蛇动画（Activity 板块）需要额外两步：
      a. 仓库 Settings -> Actions -> General -> Workflow permissions，
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="header" />
+<img src="./header.svg" width="100%" alt="header" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS&labelColor=0A0118" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=WangMeng&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS&labelColor=0A0118" alt="profile views"/>
 
 </div>
 
@@ -72,10 +72,10 @@ const dev = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&ring_color=8B5CF6" alt="github stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&langs_count=8" alt="top languages" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=WangMeng&show_icons=true&hide_border=true&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&ring_color=8B5CF6" alt="github stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangMeng&layout=compact&hide_border=true&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&langs_count=8" alt="top languages" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0A0118&ring=FF2BD6&fire=CCFF00&currStreakLabel=00F0FF&sideLabels=8A8AA3&currStreakNum=EAF6FF&sideNums=EAF6FF&dates=8A8AA3" alt="streak stats" width="86%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WangMeng&hide_border=true&background=0A0118&ring=FF2BD6&fire=CCFF00&currStreakLabel=00F0FF&sideLabels=8A8AA3&currStreakNum=EAF6FF&sideNums=EAF6FF&dates=8A8AA3" alt="streak stats" width="86%"/>
 
 </div>
 
@@ -85,7 +85,7 @@ const dev = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-neon.svg" alt="contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/WangMeng/WangMeng/output/snake-neon.svg" alt="contribution snake animation" width="100%"/>
 
 </div>
 
@@ -96,18 +96,18 @@ const dev = {
 <table align="center" width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-one"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WangMeng&repo=REPO_ONE&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-one"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-two"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WangMeng&repo=WangMengO&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-two"/>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-three"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WangMeng&repo=REPO_THREE&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-three"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-four"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WangMeng&repo=REPO_FOUR&theme=transparent&bg_color=0A0118&title_color=00F0FF&text_color=8A8AA3&icon_color=FF2BD6&border_color=8B5CF6" alt="repo-four"/>
 </td>
 </tr>
 </table>
@@ -119,8 +119,8 @@ const dev = {
 <div align="center">
 
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0A0118&color=0A0118" alt="email"/></a>
-<a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="linkedin"/></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="twitter"/></a>
+<a href="https://www.linkedin.com/in/WangMeng"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF2BD6&labelColor=0A0118&color=0A0118" alt="linkedin"/></a>
+<a href="https://twitter.com/WangMeng"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=8B5CF6&labelColor=0A0118&color=0A0118" alt="twitter"/></a>
 <a href="https://your-site.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=CCFF00&labelColor=0A0118&color=0A0118" alt="site"/></a>
 
 </div>
